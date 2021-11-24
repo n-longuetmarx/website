@@ -1,0 +1,14 @@
+name: "nicolas-website"
+navbar:
+  title: "Nicolas' website"
+  left:
+    - text: "Home"
+      href: index.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<nkd2120@columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/n-longuetmarx/
+output:
+  html_document:
+    theme: cosmo
